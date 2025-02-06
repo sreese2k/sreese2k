@@ -17,4 +17,6 @@
 
 
 [instagram]: https://www.instagram.com/sreese2k
-[linkedin]: https://linkedin.com/in/SethReese
+[linkedin]: https://www.linkedin.com/in/seth-reese474a4
+
+
